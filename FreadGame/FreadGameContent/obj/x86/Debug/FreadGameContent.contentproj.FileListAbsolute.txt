@@ -1,0 +1,2 @@
+C:\Users\Nano\Desktop\Programmation\Projet_info_fread\FreadGame\FreadGame\FreadGame\FreadGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nano\Desktop\FreadGame\FreadGame\FreadGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
